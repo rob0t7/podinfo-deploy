@@ -1,0 +1,1 @@
+{"jobID":"147d5508-c78a-8ae7-6fbe-5109da0ffa63","spec":{"type":"policy","cause":{"Message":"","User":"Robert Jackiewicz \u003crob@jackiewicz.ca\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
